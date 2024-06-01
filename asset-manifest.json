@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elhombretranquilo/ajedrez/static/css/main.6106a643.css",
+    "main.js": "/elhombretranquilo/ajedrez/static/js/main.ffd627d0.js",
+    "index.html": "/elhombretranquilo/ajedrez/index.html",
+    "main.6106a643.css.map": "/elhombretranquilo/ajedrez/static/css/main.6106a643.css.map",
+    "main.ffd627d0.js.map": "/elhombretranquilo/ajedrez/static/js/main.ffd627d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6106a643.css",
+    "static/js/main.ffd627d0.js"
+  ]
+}

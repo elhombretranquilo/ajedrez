@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/elhombretranquilo/ajedrez/static/css/main.e9abf171.css",
-    "main.js": "/elhombretranquilo/ajedrez/static/js/main.3dbc1e35.js",
-    "index.html": "/elhombretranquilo/ajedrez/index.html",
-    "main.e9abf171.css.map": "/elhombretranquilo/ajedrez/static/css/main.e9abf171.css.map",
-    "main.3dbc1e35.js.map": "/elhombretranquilo/ajedrez/static/js/main.3dbc1e35.js.map"
+    "main.css": "/ajedrez/static/css/main.e9abf171.css",
+    "main.js": "/ajedrez/static/js/main.3dbc1e35.js",
+    "index.html": "/ajedrez/index.html",
+    "main.e9abf171.css.map": "/ajedrez/static/css/main.e9abf171.css.map",
+    "main.3dbc1e35.js.map": "/ajedrez/static/js/main.3dbc1e35.js.map"
   },
   "entrypoints": [
     "static/css/main.e9abf171.css",
